@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Chae/Desktop/github/CMake/Help/guide/tutorial/Step1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -std=gnu++20 -o CMakeFiles\\Tutorial.dir\\tutorial.cxx.obj -c C:\\Users\\Chae\\Desktop\\github\\CMake\\Help\\guide\\tutorial\\Step1\\tutorial.cxx",
+  "file": "C:\\Users\\Chae\\Desktop\\github\\CMake\\Help\\guide\\tutorial\\Step1\\tutorial.cxx",
+  "output": "CMakeFiles\\Tutorial.dir\\tutorial.cxx.obj"
+}
+]
